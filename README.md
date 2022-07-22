@@ -1,7 +1,19 @@
 # MC-Quick-Server-Deploying
 
-This is very basic and non-functional it's still a very work in progress.
+### [Description]
 
-The GUI could change anytime and the buttons don't work.
+This Application is used for deploying minecraft servers very quickly in a nice quality interface.
 
-Written in java
+### [Roadmap]
+
+- [ ] Recreated in C#
+- [ ] Make sure the app is bug free and secure
+- [ ] Make the UI user friendly
+
+### [Author's Note]
+
+This was created in Java, but since this Application is used on windows I'm going to recreate this App in C# so it looks nice and efficiently. 
+
+### [Warnings]
+
+This is unstable and unuseable, so don't try :)
